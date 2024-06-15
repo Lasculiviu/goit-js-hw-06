@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const ingredientsList = document.querySelector('#ingredients');
 
-    
+   
     const fragment = document.createDocumentFragment();
 
     ingredients.forEach(ingredient => {
